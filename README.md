@@ -5,10 +5,10 @@ This is the list of independent projects I have worked on - Machine Learning, Sc
 ---
 
 ## ML
-
-
 ---
 
 ## Scraping & Visualization
+---
 
-
+## Streamlit Application 
+---
