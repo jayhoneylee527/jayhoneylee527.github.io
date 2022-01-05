@@ -9,7 +9,7 @@ This is the list of independent projects I have worked on - Machine Learning, Sc
 ## Classification
 
 ## Regression
-### - Bulldozer Bluebook ###
+### [Bulldozer Bluebook](https://www.kaggle.com/c/bluebook-for-bulldozers/overview) ### 
 
 ---
 # Scraping & Visualization
