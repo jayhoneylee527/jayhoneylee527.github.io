@@ -4,17 +4,17 @@ This is the list of independent projects I have worked on - Machine Learning, Sc
 
 ---
 
-## ML
+# ML
 
-### Classification
+## Classification
 
-### Regression
-#### * Bulldozer Bluebook
-
----
-## Scraping & Visualization
+## Regression
+### - Bulldozer Bluebook ###
 
 ---
-## Streamlit Application 
+# Scraping & Visualization
+
+---
+# Streamlit Application 
 
 ---
