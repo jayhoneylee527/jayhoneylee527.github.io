@@ -5,7 +5,10 @@ This is the list of independent projects I have worked on - Machine Learning, Sc
 ---
 
 ## ML
----
+
+### Classification
+
+### Regression
 
 ## Scraping & Visualization
 ---
