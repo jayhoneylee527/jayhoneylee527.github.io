@@ -9,12 +9,16 @@ This is the list of independent projects I have worked on - Machine Learning, Sc
 ## Classification
 
 ## Regression
-### [Bulldozer Bluebook](https://www.kaggle.com/c/bluebook-for-bulldozers/overview) ### 
+### [Bulldozer Bluebook](https://github.com/jayhoneylee527/Bulldozer-Price-Prediction) ### 
 
 ---
 # Scraping & Visualization
+### [Stock Dividend Yield Scraper](https://github.com/jayhoneylee527/Stock-Dividend-Yield-Scraper) ###
 
 ---
-# Streamlit Application 
 
+### [Youtube Sentiment on Korean Election Scraping](https://github.com/jayhoneylee527/Seoul-Mayor-By-Election-Sentiment-Analysis) ###
+---
+# Streamlit Application 
+###  [FIFA22 Player DB](https://github.com/jayhoneylee527/FIFA22-PlayerDB) ###
 ---
