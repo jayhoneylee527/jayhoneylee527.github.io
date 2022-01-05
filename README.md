@@ -1,6 +1,7 @@
 ## This is Jay's Data Science Portfolio.
 
-This is the list of independent projects I have worked on - Machine Learning, Scraping, Visualization, etc. 
+This is the list of independent projects I have worked on - Machine Learning, Scraping, Visualization, Application and etc. 
+Clicking on the title will direct you to the github repositories.
 
 ---
 
