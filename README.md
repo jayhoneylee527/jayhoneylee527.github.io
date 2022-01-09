@@ -8,7 +8,9 @@ Clicking on the title will direct you to the github repositories.
 # ML
 
 ## Classification
-### [Stock Movement Binary Classifiction](https://github.com/jayhoneylee527/Stock_Price_Movement_Prediction) ###
+### [JobCare Materials Usage Prediction](https://github.com/jayhoneylee527/Job-Recommendation-Manual-Usage-Prediction) ###
+
+### [Stock Movement Direction Prediction](https://github.com/jayhoneylee527/Stock_Price_Movement_Prediction) ###
 
 ---
 ## Regression
@@ -17,6 +19,8 @@ Clicking on the title will direct you to the github repositories.
 ---
 # Scraping & Visualization
 ### [Stock Dividend Yield Scraper](https://github.com/jayhoneylee527/Stock-Dividend-Yield-Scraper) ###
+
+I am currently investing in stocks, including Real Estate Investment Trusts (REITs). One of the most significant factors I consider when investing in REITs is their dividend yields. Depending on the types of industries the funds invest and their sizes, their sharing of profits with the investors vary; I needed to build a simple table that will display list of dividend yields, so that I can compare the returns and rebalance my portfolio.  
 
 ---
 
