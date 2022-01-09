@@ -1,6 +1,6 @@
-## This is Jay's Data Science Portfolio.
+## This is Jae Hun's Portfolio.
 
-This is the list of independent projects I have worked on - Machine Learning, Scraping, Visualization, Application and etc. 
+This is the list of independent projects I have worked on - Machine Learning, Scraping, Visualization and Application. 
 Clicking on the title will direct you to the github repositories.
 
 ---
@@ -18,7 +18,11 @@ The notebook on the repository walks through the EDA, feature engineering and mo
 
 ---
 ## Regression
-### [Bulldozer Bluebook](https://github.com/jayhoneylee527/Bulldozer-Price-Prediction) ### 
+### [Bulldozer Bluebook - Price Prediction](https://github.com/jayhoneylee527/Bulldozer-Price-Prediction) ### 
+
+The project uses datasets from a previous competition on [Kaggle](https://www.kaggle.com/c/bluebook-for-bulldozers/overview/description), where participants were expected to predict the bluebook prices of bulldozers. 
+
+The most challenging aspect of the project was feature engineering. Some feature columns included erroneous data, while some others had more than 80% missing rows, for which I had to create customized imputation methods that account for different types of missingness. For regression models, I used Random Forest Regressor and XGB Regressor which displayed similar performances. Since this competition ended few years ago, I did not get to observe the model performances of the test data. However, prediction score (Root Mean Squared Logarithmic Error) on the validation set was comparable to the top of leader board.      
 
 ---
 # Scraping & Visualization
