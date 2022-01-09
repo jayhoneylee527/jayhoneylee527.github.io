@@ -10,11 +10,17 @@ Clicking on the title will direct you to the github repositories.
 ## Classification
 ### [JobCare Materials Usage Prediction](https://github.com/jayhoneylee527/Job-Recommendation-Manual-Usage-Prediction) - DACON Competition ###
 
-[Korea Employment Information Service](http://www.keis.or.kr) currently operates an AI platform that analyzes potential employees' traits and provides them with proper trainings, consultings and support. In this competition hosted by KEIS, participants are expected to build binary classification models that predict whether people accessing their platform would decide to use the educational materials.
+[Korea Employment Information Service](http://www.keis.or.kr) operates an AI platform that analyzes job seekers' traits and provides them with proper trainings, consultings and support. In this competition hosted by KEIS, participants are expected to build binary classification models that predict whether people accessing their platform would decide to use the educational materials provided to support their job training.
 
 The notebook on the repository walks through the EDA, feature engineering and model trainings. For the classification models, I experimented with Logistic Regression, Random Forest Classifier, SVC, XGB Classifier, LDA and Catboost Classifier. The Catboost outperformed; in order to boost the performances, I used Optuna library for hyperparameter tuning. My submission placed me on the top 20% of the leader board. 
 
-### [Stock Movement Direction Prediction](https://github.com/jayhoneylee527/Stock_Price_Movement_Prediction) ###
+### [Stock Movement Direction Classifier](https://github.com/jayhoneylee527/Stock_Price_Movement_Prediction) ###
+
+To anticipate stock market is impossible. Stock market (or perhaps any other market where irrationality supercedes rationalitity) is the most whimsical, unpredictable field. 
+
+However, in a vain attempt to build a reliable, or at least a surviving mechanism that barely loses in the market, I have decided to derive several features, those of particular stock and those of commodities and indices that investors often refer to measure the sentiment of the market.
+
+The project consists of feature engineering, model training and back tester, which tells the investors to either buy or sell 5 days prior to the next opening day. The back tester calculates hypothetically how much money would we earn or lose using models. The models used are random forest classifier and neural network. The greatest difficulty was that since observed variables in the past do not follow certain distributions, training on the train set easily overfits. 
 
 ---
 ## Regression
