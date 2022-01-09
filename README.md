@@ -8,7 +8,11 @@ Clicking on the title will direct you to the github repositories.
 # ML
 
 ## Classification
-### [JobCare Materials Usage Prediction](https://github.com/jayhoneylee527/Job-Recommendation-Manual-Usage-Prediction) ###
+### [JobCare Materials Usage Prediction](https://github.com/jayhoneylee527/Job-Recommendation-Manual-Usage-Prediction) - DACON Competition ###
+
+[Korea Employment Information Service](http://www.keis.or.kr) currently operates an AI platform that analyzes potential employees' traits and provides them with proper trainings, consultings and support. In this competition hosted by KEIS, participants are expected to build binary classification models that predict whether people accessing their platform would decide to use the educational materials.
+
+The notebook on the repository walks through the EDA, feature engineering and model trainings. For the classification models, I experimented with Logistic Regression, Random Forest Classifier, SVC, XGB Classifier, LDA and Catboost Classifier. The Catboost outperformed; in order to boost the performances, I used Optuna library for hyperparameter tuning. My submission was placed on the top 20% of the leader board. 
 
 ### [Stock Movement Direction Prediction](https://github.com/jayhoneylee527/Stock_Price_Movement_Prediction) ###
 
