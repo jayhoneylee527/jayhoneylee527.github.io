@@ -32,7 +32,7 @@ I am currently investing in stocks, including Real Estate Investment Trusts (REI
 
 ---
 
-### [Youtube Sentiment on Korean Election Scraping](https://github.com/jayhoneylee527/Seoul-Mayor-By-Election-Sentiment-Analysis) ###
+### [Youtube Sentiment on Korean Re-election Scraping](https://github.com/jayhoneylee527/Seoul-Mayor-By-Election-Sentiment-Analysis) ###
 ---
 # Streamlit Application 
 ###  [FIFA22 Player DB](https://github.com/jayhoneylee527/FIFA22-PlayerDB) ###
@@ -46,4 +46,4 @@ As a serious FIFA player (challenge accepted anytime) I have to know the traits 
 With this tool, users can find a nice replacement for the world-class player at an affordable market value.  
 
 ---
-### [Stock Ticker Info & Charts](https://github.com/jayhoneylee527/Streamlit-TickerInfo_ARIMA) ###
+### [Stock Ticker Info & Price Charts](https://github.com/jayhoneylee527/Streamlit-TickerInfo_ARIMA) ###
