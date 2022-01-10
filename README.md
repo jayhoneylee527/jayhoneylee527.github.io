@@ -55,11 +55,11 @@ As a serious FIFA player (challenge accepted anytime) I have to know the traits 
 
 2) Filter players by the traits including their abilities, age, market value and etc.  
 
-With this tool, users can find a nice replacement for the world-class player at an affordable market value.  
+With this tool, users can find a nice replacement for the world-class player at an affordable market value. [Click here to access the App](https://share.streamlit.io/jayhoneylee527/fifa22-playerdb/main/fifa.py).  
 
 ---
 ### [Stock Ticker Info & Price Charts](https://github.com/jayhoneylee527/Streamlit-TickerInfo_ARIMA) ###
 
-Based on the ticker symbol and user input date, the app displays price and technical indicator trends over time. Moreover, it provides ARIMA prediction on the future trends of prices.
+Based on the ticker symbol and user input date, the app displays price and technical indicator trends over time. Moreover, it provides ARIMA prediction on the future trends of prices. [Click here to access the App](https://share.streamlit.io/jayhoneylee527/streamlit-tickerinfo_arima/main/main.py).
 
 <img src="images/ticker_info.JPG" width="600" height="300">
