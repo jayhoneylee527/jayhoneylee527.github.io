@@ -51,7 +51,7 @@ The notable aspect of this year's elections was the prevalence of political opin
 
 As a serious FIFA player (challenge accepted anytime) I have to know the traits of each player to build an ideal team on a career mode. Although everyone hopes to create an an All Star team with Messi and Ronaldo, it is not only expensive but also in fact, not so economical. The App I created through Streamlit helps users with two essential functions:
 
-1) Visualize each player's abilities and their values as well as other players with similar traits.
+1) Visualize each player's abilities and list other players with similar traits.
 
 2) Filter players by the traits including their abilities, age, market value and etc.  
 
@@ -59,3 +59,7 @@ With this tool, users can find a nice replacement for the world-class player at 
 
 ---
 ### [Stock Ticker Info & Price Charts](https://github.com/jayhoneylee527/Streamlit-TickerInfo_ARIMA) ###
+
+Based on the ticker symbol and user input date, the app displays price and technical indicator trends over time. Moreover, it provides ARIMA prediction on the future trends of prices.
+
+<img src="images/ticker_info.JPG" width="500" height="300">
