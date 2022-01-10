@@ -62,4 +62,4 @@ With this tool, users can find a nice replacement for the world-class player at 
 
 Based on the ticker symbol and user input date, the app displays price and technical indicator trends over time. Moreover, it provides ARIMA prediction on the future trends of prices.
 
-<img src="images/ticker_info.JPG" width="500" height="300">
+<img src="images/ticker_info.JPG" width="600" height="300">
