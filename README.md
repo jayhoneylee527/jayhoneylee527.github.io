@@ -40,6 +40,11 @@ I am currently investing in stocks, including Real Estate Investment Trusts (REI
 ---
 
 ### [Youtube Sentiment on Korean Re-election Scraping](https://github.com/jayhoneylee527/Seoul-Mayor-By-Election-Sentiment-Analysis) ###
+
+April 7th, 2021 was the day of by-election in South Korea. Most notably, it was the day that citizens of Seoul voted for the new mayor of Seoul - in a passage to the presidential election of 2022, for both parties, Democratic and People's party (conservative), the importance of this particular election could not compare to any of the previous ones. 
+
+The notable aspect of this year's elections was the prevalence of political opinions & voices on the internet - even the campaigns were allocating big chunk of their resources on social media. To measure general public's sentiment to the candidates, I decided to scrape data from YouTube, to observe basic statistics of hundreds of videos uploaded regarding two most prominent candidates. By analyzing the views, likes/dislikes ratio I attempted to visualize and compare the degree of interests (both positive and negatie). 
+
 ---
 # Streamlit Application 
 ###  [FIFA22 Player DB](https://github.com/jayhoneylee527/FIFA22-PlayerDB) ###
