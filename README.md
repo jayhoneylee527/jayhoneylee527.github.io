@@ -39,7 +39,7 @@ I am currently investing in stocks, including Real Estate Investment Trusts (REI
 <img src="images/dividend_yield.JPG" width="300" height="300">
 ---
 
-### [Youtube Sentiment on Korean Re-election Scraping](https://github.com/jayhoneylee527/Seoul-Mayor-By-Election-Sentiment-Analysis) ###
+### [Youtube Sentiment on Korean By-election Scraping](https://github.com/jayhoneylee527/Seoul-Mayor-By-Election-Sentiment-Analysis) ###
 
 April 7th, 2021 was the day of by-election in South Korea. Most notably, it was the day that citizens of Seoul voted for the new mayor of Seoul - in a passage to the presidential election of 2022, for both parties, Democratic and People's party (conservative), the importance of this particular election could not compare to any of the previous ones. 
 
