@@ -36,8 +36,7 @@ The most challenging aspect of the project was feature engineering. Some feature
 
 I am currently investing in stocks, including Real Estate Investment Trusts (REITs). One of the most significant factors I consider when investing in REITs is their dividend yields. Depending on the types of industries the funds invest and their market capital, their sharing of profits with the investors vary; I needed to build a simple table that will display list of dividend yields, so that I can compare the returns and rebalance my portfolio.  
 
-![This is an image](/images/dividend_yield.JPG=250x250)
-
+<img src="images/dividend_yield.JPG" width="100" height="100">
 ---
 
 ### [Youtube Sentiment on Korean Re-election Scraping](https://github.com/jayhoneylee527/Seoul-Mayor-By-Election-Sentiment-Analysis) ###
