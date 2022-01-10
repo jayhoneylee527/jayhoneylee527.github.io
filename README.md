@@ -49,7 +49,7 @@ The notable aspect of this year's elections was the prevalence of political opin
 # Streamlit Application 
 ###  [FIFA22 Player DB](https://github.com/jayhoneylee527/FIFA22-PlayerDB) ###
 
-As a serious FIFA player (challenge accepted anytime) I have to know the traits of each player to build an ideal team on a career mode. Although everyone hopes to create an an All Star team with Messi and Ronaldo, it is not only expensive but also in fact, not so economical. The App I created through Streamlit helps users with two essential functions:
+As a serious FIFA player (challenge accepted anytime) I have to know the traits of each player to build an ideal team on a career mode. Ideally, I would love to create an All Star team with Messi and Ronaldo. However, it is not only expensive but also in fact, not so economical. The App I created through Streamlit helps users to improve their squads in two ways:
 
 1) Visualize each player's abilities and list other players with similar traits.
 
