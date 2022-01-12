@@ -37,6 +37,9 @@ The most challenging aspect of the project was feature engineering. Some feature
 
 Is the world becoming a better place for humanity to live? By looking at the data in the past six decades, I created several visualizations that display trends on infant mortalities, birth rates, populations by age bracket and etc. Through macroscopic analysis, I have discovered some obvious and some astounding changes that the world has seen recently. 
 
+<img src="images/mortality_rate.JPG" width="500" height="300">
+---
+
 ### [Stock Dividend Yield Scraper](https://github.com/jayhoneylee527/Stock-Dividend-Yield-Scraper) ###
 
 I am currently investing in stocks, including Real Estate Investment Trusts (REITs). One of the most significant factors I consider when investing in REITs is their dividend yields. Depending on the types of industries the funds invest and their market capital, their sharing of profits with the investors vary; I needed to build a simple table that will display list of dividend yields, so that I can compare the returns and rebalance my portfolio.  
