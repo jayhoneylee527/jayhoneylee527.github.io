@@ -52,7 +52,7 @@ Based on more than 30 feature columns, I used 4 different regressors. XGB regres
 
 ### [Health Nutrition and Population Statistics Visualization](https://github.com/jayhoneylee527/Health-Nutrition-and-Population-Statistics-Visualization/tree/main) ###
 
-Is the world becoming a better place for humanity? By looking at the data from the past six decades, I created several visualizations that display trends on infant mortalities, birth rates, populations by age bracket and etc. Through macroscopic analysis, I have discovered some obvious and some astounding changes that the world has seen recently. 
+Is the world becoming better? Especially in the developing regions, do humans now have better chances of survival? By looking at the data from the past six decades, I created several visualizations that display trends on infant mortalities, birth rates, populations by age bracket and etc. Through macroscopic analysis, I have discovered some obvious and some astounding changes that the world has seen recently. 
 
 <p align="center">
   <img src="images/mortality_rate.JPG" width="600" height="300">
