@@ -47,7 +47,7 @@ From the onset of Coronavirus pandemic, the U.S used car market has seen unprece
 Due to the time & resources limit, the scraper collects information on ~25,000 listed recently on cargurus. The information scraper collects includes car model, mileage, make year, MSRP. color, options included and etc. Nearly 70% of the listings were missing MSRP (suggested retail price) - the most important feature in predicting the current prices. I created a separate MSRP scraper to gather as many MSRP data as possible for each model.   
 
 Based on more than 30 feature columns, I used 4 different regressors. XGB regressor showed the highest precision after parameter tuning.
-
+&nbsp;
 <p align="center">
   <img src="images/used_car_prediction.JPG" width="650" height="300">
 </p>
@@ -91,6 +91,7 @@ With this tool, users can find a nice replacement for the world-class player at 
 
 Based on the ticker symbol and user input date, the app displays price and technical indicator trends over time. Moreover, it provides ARIMA prediction on the future trends of prices. [Click here to access the App](https://share.streamlit.io/jayhoneylee527/streamlit-tickerinfo_arima/main/main.py).
 
+&nbsp;
 <p align="center">
   <img src="images/ticker_info.JPG" width="600" height="300">
 </p>
