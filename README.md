@@ -46,7 +46,8 @@ From the onset of Coronavirus pandemic, the U.S used car market has seen unprece
 
 Due to the time & resources limit, the scraper collects information on ~25,000 listed recently on cargurus. The information scraper collects includes car model, mileage, make year, MSRP. color, options included and etc. Nearly 70% of the listings were missing MSRP (suggested retail price) - the most important feature in predicting the current prices. I created a separate MSRP scraper to gather as many MSRP data as possible for each model.   
 
-Based on more than 30 feature columns, I used 4 different regressors. XGB regressor showed the highest precision after parameter tuning.
+Based on more than 30 feature columns, I used 5 different models - Linear Regression, Polynomial Regression, Random Forest, Multilayer Perceptron & XGB. XGB regressor showed the highest precision after parameter tuning.
+
 &nbsp;
 <p align="center">
   <img src="images/used_car_prediction.JPG" width="650" height="300">
