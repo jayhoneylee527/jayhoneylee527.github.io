@@ -49,7 +49,7 @@ Due to the time & resources limit, the scraper collects information on ~25,000 l
 Based on more than 30 feature columns, I used 4 different regressors. XGB regressor showed the highest precision after parameter tuning.
 
 <p align="center">
-  <img src="images/used_car_prediction.JPG" width="800" height="300">
+  <img src="images/used_car_prediction.JPG" width="700" height="300">
 </p>
 
 # Scraping & Visualization
