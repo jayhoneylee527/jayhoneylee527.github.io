@@ -32,10 +32,10 @@ The most challenging aspect of the project was feature engineering. Some feature
 
 <p align="center">
   <img src="images/used_car_price.JPG" width="600" height="300">
+</p>
+<p align="center">  
   <em>Source: Cargurus</em>
 </p>
-
-
 
 The project consists of two parts.
 
