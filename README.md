@@ -27,6 +27,18 @@ The project uses datasets from a previous competition on [Kaggle](https://www.ka
 
 The most challenging aspect of the project was feature engineering. Some feature columns included erroneous data, while some others had more than 80% missing rows, for which I had to create customized imputation methods that account for different types of missingness. For regression models, I used Random Forest Regressor and XGB Regressor which displayed similar performances. Since this competition ended few years ago, I did not get to observe the model performances of the test data. However, prediction score (Root Mean Squared Logarithmic Error) on the validation set was comparable to the top of leader board.      
 
+### [Used Car Listing Scraper & Price Prediction](https://github.com/jayhoneylee527/Used-Car-Price-Prediction) ###
+
+
+<p align="center">
+  <img src="images/used_car_price.JPG" width="600" height="300">
+  <em>Source: Cargurus</em>
+</p>
+
+
+
+The project consists of two parts.
+
 # Scraping & Visualization
 
 ### [Health Nutrition and Population Statistics Visualization](https://github.com/jayhoneylee527/Health-Nutrition-and-Population-Statistics-Visualization/tree/main) ###
