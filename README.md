@@ -58,6 +58,7 @@ Based on more than 30 feature columns, I used 4 different regressors. XGB regres
 
 Is the world becoming better? Especially in the developing regions, do humans now have better chances of survival? By looking at the data from the past six decades, I created several visualizations that display trends on infant mortalities, birth rates, populations by age bracket and etc. Through macroscopic analysis, I have discovered some obvious and some astounding changes that the world has seen recently. 
 
+&nbsp;
 <p align="center">
   <img src="images/mortality_rate.JPG" width="600" height="300">
 </p>
@@ -66,6 +67,7 @@ Is the world becoming better? Especially in the developing regions, do humans no
 
 I am currently investing in stocks, including Real Estate Investment Trusts (REITs). One of the most significant factors I consider when investing in REITs is their dividend yields. Depending on the types of industries the funds invest and their market capital, their profit sharing with the investors vary; I needed to build a simple table that will display list of dividend yields of each company, so that I can compare the returns as an investor and rebalance my portfolio.  
 
+&nbsp;
 <p align="center">
   <img src="images/dividend_yield.JPG" width="300" height="300">
 </p>
