@@ -29,6 +29,8 @@ The most challenging aspect of the project was feature engineering. Some feature
 
 ### [Used Car Listing Scraper & Price Prediction](https://github.com/jayhoneylee527/Used-Car-Price-Prediction) ###
 
+
+
 <p align="center">
   <img src="images/used_car_price.JPG" width="600" height="300">
 </p>
