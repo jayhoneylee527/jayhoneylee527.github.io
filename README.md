@@ -39,11 +39,14 @@ The most challenging aspect of the project was feature engineering. Some feature
 From the onset of Coronavirus pandemic, the U.S used car market has seen unprecedented rate of increase in the second hand automobiles' prices. The phenomenon is mainly attributed to two reasons: decreased production by automakers due to microchip shortages and increased demand from consumers returning to work. With prices still surging fast, buying a car has become more difficult, as knowing the benchmark price is harder; I decided to build a price predictor, so that it will serve as a criterion for future purchases. 
 
 **The project consists of two parts:**
-1) Scraper that gathers listings of used cars on cargurus.com
+
+1) Scraper that gathers listings of used cars on [cargurus.com](https://www.cargurus.com/)
 
 2) Feature Engineering, Model Training & Analysis of the Model Performances
 
+Due to the time & resources limit, the scraper collects information on ~25,000 listed recently on cargurus. The information scraper collects includes car model, mileage, make year, MSRP. color, options included and etc. Nearly 70% of the listings were missing MSRP (suggested retail price) - the most important feature in predicting the current prices. I created a separate MSRP scraper to gather as many MSRP data as possible for each model.   
 
+Based on more than 30 feature columns, I used 4 different regressors. XGB regressor showed the highest precision after parameter tuning.
 
 # Scraping & Visualization
 
