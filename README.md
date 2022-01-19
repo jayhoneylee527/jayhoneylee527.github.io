@@ -29,15 +29,21 @@ The most challenging aspect of the project was feature engineering. Some feature
 
 ### [Used Car Listing Scraper & Price Prediction](https://github.com/jayhoneylee527/Used-Car-Price-Prediction) ###
 
-
 <p align="center">
   <img src="images/used_car_price.JPG" width="600" height="300">
 </p>
 <p align="center">  
-  <em>Source: Cargurus</em>
+  <em>Source: cargurus.com</em>
 </p>
 
-The project consists of two parts.
+From the onset of Coronavirus pandemic, the U.S used car market has seen unprecedented rate of increase in the second hand automobiles' prices. The phenomenon is mainly attributed to two reasons: decreased production by automakers due to microchip shortages and increased demand from consumers returning to work. With prices still surging fast, buying a car has become more difficult, as knowing the benchmark price is harder; I decided to build a price predictor, so that it will serve as a criterion for future purchases. 
+
+**The project consists of two parts:**
+1) Scraper that gathers listings of used cars on cargurus.com
+
+2) Feature Engineering, Model Training & Analysis of the Model Performances
+
+
 
 # Scraping & Visualization
 
