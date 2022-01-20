@@ -35,13 +35,13 @@ From the onset of Coronavirus pandemic, the U.S used car market has seen unprece
 
 **The project consists of two parts:**
 
-1) Scraper that gathers listings of used cars on [cargurus.com](https://www.cargurus.com/)
+1) Scraper that gathers listings of used and new cars on [cargurus.com](https://www.cargurus.com/)
 
 2) Feature Engineering, Model Training & Analysis of the Model Performances
 
-Due to the time & resources limit, the scraper collects information on ~25,000 listed recently on cargurus. The information scraper collects includes car model, mileage, make year, MSRP. color, options included and etc. Nearly 70% of the listings were missing MSRP (suggested retail price) - the most important feature in predicting the current prices. I created a separate MSRP scraper to gather as many MSRP data as possible for each model.   
+Due to the time & resources limit, the scraper collects information on ~25,000 listed recently on cargurus. The information scraper collects includes car model, mileage, make year, MSRP, color, included options and etc. Nearly 70% of the listings were missing MSRP (suggested retail price) - the most important feature in predicting the current prices. I created a separate MSRP scraper to gather as many MSRP data as possible for each model.   
 
-Based on more than 30 feature columns, I used 5 different models - Linear Regression, Polynomial Regression, Random Forest, Multilayer Perceptron & XGB. XGB regressor showed the highest precision after parameter tuning.
+Based on more than 30 feature columns, I used 5 different models - Linear Regression, Polynomial Regression, Random Forest, Multilayer Perceptron & XGB. XGB regressor showed the highest precision after parameter tuning. The analysis part deep dives into how the model performed for respective brands and body types of vehicles.
 
 &nbsp;
 <p align="center">
