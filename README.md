@@ -1,20 +1,20 @@
-## This is Jae Hun's Portfolio.
+## Jae Hun's Portfolio. ##
 
-This is the list of independent projects I have worked on - Machine Learning, Scraping, Visualization and Application. 
-Clicking on the title will direct you to the github repositories.
+This is the list of my independent projects. They consist of multiple domains including Machine Learning, Scraping, Visualization and Application. 
+Clicking on the project title will direct you to the github repositories. 
 
 # ML
 
 ## Classification
 ### [JobCare Materials Usage Prediction](https://github.com/jayhoneylee527/Job-Recommendation-Manual-Usage-Prediction) - DACON Competition ###
 
-[Korea Employment Information Service](http://www.keis.or.kr) operates an AI platform that analyzes job seekers' traits and provides them with proper trainings, consultings and support. In this competition hosted by KEIS, participants are expected to build binary classification models that predict whether people accessing their platform would decide to use the educational materials provided to support their job training.
+[Korea Employment Information Service](http://www.keis.or.kr) runs an AI platform that analyzes job seekers' traits and provides them with proper trainings, consultings and support. In this competition hosted by KEIS, participants are expected to build binary classification models that predict whether people accessing their platform would decide to use the educational materials provided to support their job training.
 
 The notebook on the repository walks through the EDA, feature engineering and model trainings. For the classification models, I experimented with Logistic Regression, Random Forest Classifier, SVC, XGB Classifier, LDA and Catboost Classifier. The Catboost outperformed; in order to boost the performances, I used Optuna library for hyperparameter tuning. My submission placed me on the top 20% of the leader board. 
 
 ### [Stock Movement Direction Classifier](https://github.com/jayhoneylee527/Stock_Price_Movement_Prediction) ###
 
-To anticipate stock market is impossible. Stock market (or perhaps any other market where irrationality supercedes rationalitity) is the most whimsical, unpredictable field. 
+To anticipate stock market is close to impossible. Stock market (or perhaps any other market where irrationality supercedes rationalitity) is the most whimsical, unpredictable field. 
 
 However, in a vain attempt to build a reliable, or at least a surviving mechanism that barely loses in the market, I have decided to derive several features, those of particular stock and those of commodities and indices that investors often refer to measure the sentiment of the market.
 
@@ -31,7 +31,7 @@ The project consists of feature engineering, model training and back tester, whi
   <em>Source: cargurus.com</em>
 </p>
 
-From the onset of Coronavirus pandemic, the U.S used car market has seen unprecedented rate of increase in the second hand automobiles' prices. The phenomenon is mainly attributed to two reasons: decreased production by automakers due to microchip shortages and increased demand from consumers returning to work. With prices still surging fast, buying a car has become more difficult, as knowing the benchmark price is harder; I decided to build a price predictor, so that it will serve as a criterion for future purchases. 
+From the onset of Coronavirus pandemic, the U.S used car market has seen unprecedented rate of increase in the second hand automobiles' prices. This phenomenon is mainly attributed to two causes: decreased production by automakers due to microchip shortages and increased demand from consumers returning to work. With prices still surging fast, buying a car has become more difficult, as knowing the benchmark price is harder; I decided to build a price predictor, so that it will serve as a criterion for future purchases. 
 
 **The project consists of two parts:**
 
