@@ -1,5 +1,6 @@
 ## Jae Hun's Portfolio. ##
 
+&nbsp;
 This is the list of my independent projects. They consist of multiple domains including Machine Learning, Scraping, Visualization and Application. 
 Clicking on the project title will direct you to the github repositories. 
 
