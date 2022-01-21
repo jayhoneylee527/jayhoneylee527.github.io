@@ -4,7 +4,7 @@ This is comprehensive list of my independent projects. It consists of multiple d
 Clicking on the project title will direct you to the github repositories. 
 
 # ML
-
+----
 ## Classification
 ### [JobCare Materials Usage Prediction](https://github.com/jayhoneylee527/Job-Recommendation-Manual-Usage-Prediction) - DACON Competition ###
 
