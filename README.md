@@ -3,6 +3,7 @@
 This is the list of my independent projects. They consist of multiple domains including Machine Learning, Scraping, Visualization and Application. 
 Clicking on the project title will direct you to the github repositories. 
 
+nbsp;
 # ML
 
 ## Classification
@@ -54,6 +55,7 @@ The project uses datasets from a previous competition on [Kaggle](https://www.ka
 
 The most challenging aspect of the project was feature engineering. Some feature columns included erroneous data, while some others had more than 80% missing rows, for which I had to create customized imputation methods that account for different types of missingness. For regression models, I used Random Forest Regressor and XGB Regressor which displayed similar performances. Since this competition ended few years ago, I did not get to observe the model performances of the test data. However, prediction score (Root Mean Squared Logarithmic Error) on the validation set was comparable to the top of leader board.      
 
+nbsp;
 # Scraping & Visualization
 
 ### [Health Nutrition and Population Statistics Visualization](https://github.com/jayhoneylee527/Health-Nutrition-and-Population-Statistics-Visualization/tree/main) ###
@@ -80,6 +82,7 @@ April 7th, 2021 was the day of by-election in South Korea. Most notably, it was 
 
 This year in particular, the public saw the prevalence of political opinions & voices on the internet more than ever - even the campaigns were allocating big chunk of their resources to promote their agenda on social media. To measure general public's sentiment to the candidates, I decided to scrape data from YouTube, to observe basic statistics of hundreds of videos uploaded regarding two most prominent candidates. By analyzing the views, likes/dislikes ratio I attempted to visualize and compare the degree of interests (both positive and negatie). 
 
+nbsp;
 # Streamlit Application 
 ###  [FIFA22 Player DB](https://github.com/jayhoneylee527/FIFA22-PlayerDB) ###
 
