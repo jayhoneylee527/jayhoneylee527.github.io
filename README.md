@@ -57,7 +57,7 @@ The most challenging aspect of the project was feature engineering. Some feature
 
 &nbsp;
 # Scraping & Visualization
-
+----
 ### [Health Nutrition and Population Statistics Visualization](https://github.com/jayhoneylee527/Health-Nutrition-and-Population-Statistics-Visualization/tree/main) ###
 
 Is the world becoming better? Especially in the developing regions, do humans now have better chances of survival? By looking at the data from the past six decades, I created several visualizations that display trends on infant mortalities, birth rates, populations by age bracket and etc. Through macroscopic analysis, I have discovered some obvious and some astounding changes that the world has seen recently. 
@@ -84,6 +84,7 @@ This year in particular, the public saw the prevalence of political opinions & v
 
 &nbsp;
 # Streamlit Application 
+----
 ###  [FIFA22 Player DB](https://github.com/jayhoneylee527/FIFA22-PlayerDB) ###
 
 As a serious FIFA player (challenge accepted anytime) I have to know the traits of each player to build an ideal team on a career mode. Ideally, I would love to create an All Star team with Messi and Ronaldo. However, it is not only expensive but also in fact, not so economical. The App I created through Streamlit helps users to improve their squads in two ways:
