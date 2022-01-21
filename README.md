@@ -103,3 +103,6 @@ Based on the ticker symbol and user input date, the app displays price and techn
 <p align="center">
   <img src="images/ticker_info.JPG" width="600" height="300">
 </p>
+
+&nbsp;
+&nbsp;
