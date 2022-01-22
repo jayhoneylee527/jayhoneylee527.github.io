@@ -1,7 +1,6 @@
 # Jae Hun's Portfolio. 
 
-This is comprehensive list of my independent projects. It consists of multiple domains including Machine Learning, Scraping, Visualization and Streamlit Application. 
-Clicking on the project title will direct you to the github repositories. 
+This is comprehensive list of my independent projects, all beyond the scope of my course work. It consists of multiple domains including Machine Learning, Scraping, Visualization and Streamlit Application. Clicking on the project title will direct you to the github repositories. 
 
 # ML
 ----
