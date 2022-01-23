@@ -95,6 +95,11 @@ As a serious FIFA player, I have to know the traits of each player to build an i
 
 With this tool, users can find a nice replacement for the world-class player at an affordable market value. [Click here to access the App](https://share.streamlit.io/jayhoneylee527/fifa22-playerdb/main/fifa.py).  
 
+&nbsp;
+<p align="center">
+  <img src="images/messi_dash.PNG" width="600" height="300">
+</p>
+
 ### [Stock Ticker Info & Price Charts](https://github.com/jayhoneylee527/Streamlit-TickerInfo_ARIMA) ###
 
 Based on the ticker symbol and user input date, the app displays price and technical indicators over user selected date range. It also provides ARIMA prediction on the future trends of prices. [Click here to access the App](https://share.streamlit.io/jayhoneylee527/streamlit-tickerinfo_arima/main/main.py).
