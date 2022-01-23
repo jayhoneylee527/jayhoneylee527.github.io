@@ -66,7 +66,8 @@ Is the world becoming better? Especially in the developing regions, do humans no
 <p align="center">
   <img src="images/mortality_rate.JPG" width="600" height="300">
 </p>
-  
+&nbsp; 
+ 
 ### [Stock Dividend Yield Scraper](https://github.com/jayhoneylee527/Stock-Dividend-Yield-Scraper) ###
 
 I am currently investing in stocks, including Real Estate Investment Trusts (REITs). One of the most significant factors I consider when investing in REITs is their dividend yields. Depending on the types of industries the funds invest and their market capital, their profit sharing with the investors vary; I needed to build a simple table that will display list of dividend yields of each company, so that I can compare the returns as an investor and rebalance my portfolio.  
@@ -75,6 +76,7 @@ I am currently investing in stocks, including Real Estate Investment Trusts (REI
 <p align="center">
   <img src="images/dividend_yield.JPG" width="300" height="300">
 </p>
+&nbsp;
   
 ### [Youtube Sentiment on Korean By-election Scraping](https://github.com/jayhoneylee527/Seoul-Mayor-By-Election-Sentiment-Analysis) ###
 
@@ -99,6 +101,7 @@ With this tool, users can find a nice replacement for the world-class player at 
 <p align="center">
   <img src="images/messi_dash.PNG" width="600" height="400">
 </p>
+&nbsp;
 
 ### [Stock Ticker Info & Price Charts](https://github.com/jayhoneylee527/Streamlit-TickerInfo_ARIMA) ###
 
