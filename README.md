@@ -97,7 +97,7 @@ With this tool, users can find a nice replacement for the world-class player at 
 
 &nbsp;
 <p align="center">
-  <img src="images/messi_dash.PNG" width="600" height="500">
+  <img src="images/messi_dash.PNG" width="600" height="400">
 </p>
 
 ### [Stock Ticker Info & Price Charts](https://github.com/jayhoneylee527/Streamlit-TickerInfo_ARIMA) ###
