@@ -46,7 +46,7 @@ Based on more than 30 feature columns, I used 5 different models - Linear Regres
 
 &nbsp;
 <p align="center">
-  <img src="images/used_car_prediction.JPG" width="650" height="300">
+  <img src="images/used_car_prediction.PNG" width="650" height="300">
 </p>
 
 ### [Bulldozer Bluebook - Price Prediction](https://github.com/jayhoneylee527/Bulldozer-Price-Prediction) ### 
