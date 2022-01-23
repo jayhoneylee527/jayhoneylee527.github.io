@@ -46,7 +46,7 @@ Based on more than 30 feature columns, I used 5 different models - Linear Regres
 
 &nbsp;
 <p align="center">
-  <img src="images/used_car_prediction.PNG" width="600" height="350">
+  <img src="images/used_car_prediction.PNG" width="750" height="400">
 </p>
 &nbsp;
 
