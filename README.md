@@ -1,10 +1,10 @@
-## Jae Hun's Portfolio. ##
 
-This is the list of my independent projects. They consist of multiple domains including Machine Learning, Scraping, Visualization and Application. 
-Clicking on the project title will direct you to the github repositories. 
+# Jae Hun's Portfolio
+
+This is comprehensive list of my independent projects, all beyond the scope of my course work. It consists of multiple domains including Machine Learning, Scraping, Visualization and Streamlit Application. Clicking on the project title will direct you to the github repositories. 
 
 # ML
-
+----
 ## Classification
 ### [JobCare Materials Usage Prediction](https://github.com/jayhoneylee527/Job-Recommendation-Manual-Usage-Prediction) - DACON Competition ###
 
@@ -20,6 +20,7 @@ However, in a vain attempt to build a reliable, or at least a surviving mechanis
 
 The project consists of feature engineering, model training and back tester, which tells the investors to either buy or sell 5 days prior to the next opening day. The back tester calculates hypothetically how much money would we earn or lose using models. The models used are random forest classifier and neural network. The greatest difficulty was that since observed variables in the past do not follow certain distributions, training on the train set easily overfits. 
 
+&nbsp;
 ## Regression
 
 ### [Used Car Listing Scraper & Price Prediction](https://github.com/jayhoneylee527/Used-Car-Price-Prediction) ###
@@ -54,8 +55,9 @@ The project uses datasets from a previous competition on [Kaggle](https://www.ka
 
 The most challenging aspect of the project was feature engineering. Some feature columns included erroneous data, while some others had more than 80% missing rows, for which I had to create customized imputation methods that account for different types of missingness. For regression models, I used Random Forest Regressor and XGB Regressor which displayed similar performances. Since this competition ended few years ago, I did not get to observe the model performances of the test data. However, prediction score (Root Mean Squared Logarithmic Error) on the validation set was comparable to the top of leader board.      
 
+&nbsp;
 # Scraping & Visualization
-
+----
 ### [Health Nutrition and Population Statistics Visualization](https://github.com/jayhoneylee527/Health-Nutrition-and-Population-Statistics-Visualization/tree/main) ###
 
 Is the world becoming better? Especially in the developing regions, do humans now have better chances of survival? By looking at the data from the past six decades, I created several visualizations that display trends on infant mortalities, birth rates, populations by age bracket and etc. Through macroscopic analysis, I have discovered some obvious and some astounding changes that the world has seen recently. 
@@ -80,10 +82,12 @@ April 7th, 2021 was the day of by-election in South Korea. Most notably, it was 
 
 This year in particular, the public saw the prevalence of political opinions & voices on the internet more than ever - even the campaigns were allocating big chunk of their resources to promote their agenda on social media. To measure general public's sentiment to the candidates, I decided to scrape data from YouTube, to observe basic statistics of hundreds of videos uploaded regarding two most prominent candidates. By analyzing the views, likes/dislikes ratio I attempted to visualize and compare the degree of interests (both positive and negatie). 
 
+&nbsp;
 # Streamlit Application 
+----
 ###  [FIFA22 Player DB](https://github.com/jayhoneylee527/FIFA22-PlayerDB) ###
 
-As a serious FIFA player (challenge accepted anytime) I have to know the traits of each player to build an ideal team on a career mode. Ideally, I would love to create an All Star team with Messi and Ronaldo. However, it is not only expensive but also in fact, not so economical. The App I created through Streamlit helps users to improve their squads in two ways:
+As a serious FIFA player, I have to know the traits of each player to build an ideal team on a career mode. Ideally, I would love to create an All Star team with Messi and Ronaldo. However, it is not only expensive but also in fact, not so economical. The App I created through Streamlit helps users to improve their squads in two ways:
 
 1) Visualize each player's abilities and list other players with similar traits.
 
@@ -91,11 +95,19 @@ As a serious FIFA player (challenge accepted anytime) I have to know the traits 
 
 With this tool, users can find a nice replacement for the world-class player at an affordable market value. [Click here to access the App](https://share.streamlit.io/jayhoneylee527/fifa22-playerdb/main/fifa.py).  
 
+&nbsp;
+<p align="center">
+  <img src="images/messi_dash.PNG" width="600" height="400">
+</p>
+
 ### [Stock Ticker Info & Price Charts](https://github.com/jayhoneylee527/Streamlit-TickerInfo_ARIMA) ###
 
-Based on the ticker symbol and user input date, the app displays price and technical indicator trends over time. Moreover, it provides ARIMA prediction on the future trends of prices. [Click here to access the App](https://share.streamlit.io/jayhoneylee527/streamlit-tickerinfo_arima/main/main.py).
+Based on the ticker symbol and user input date, the app displays price and technical indicators over user selected date range. It also provides ARIMA prediction on the future trends of prices. [Click here to access the App](https://share.streamlit.io/jayhoneylee527/streamlit-tickerinfo_arima/main/main.py).
 
 &nbsp;
 <p align="center">
   <img src="images/ticker_info.JPG" width="600" height="300">
 </p>
+
+&nbsp;
+&nbsp;
