@@ -26,7 +26,7 @@ The project consists of feature engineering, model training and back tester, whi
 ### [Used Car Listing Scraper & Price Prediction](https://github.com/jayhoneylee527/Used-Car-Price-Prediction) ###
 &nbsp;
 <p align="center">
-  <img src="images/used_car_price.JPG" width="600" height="300">
+  <img src="images/used_car_price.JPG" width="700" height="400">
 </p>
 <p align="center">  
   <em>Source: cargurus.com</em>
