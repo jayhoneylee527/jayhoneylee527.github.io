@@ -1,16 +1,16 @@
 
 # Jae Hun's Portfolio
 
-This is comprehensive list of my independent projects, all beyond the scope of my course work. It consists of multiple domains including Machine Learning, Scraping, Visualization and Streamlit Application. Clicking on the project title will direct you to the github repositories. 
+This is a comprehensive list of my independent projects. It consists of multiple domains including Machine Learning, Web Scraping, Data Visualization and Streamlit Application. Clicking on the project title will direct you to the github repository for further details. 
 
-# ML
+# Machine Learning
 ----
 ## Classification
 ### [JobCare Materials Usage Prediction](https://github.com/jayhoneylee527/Job-Recommendation-Manual-Usage-Prediction) - DACON Competition ###
 
 [Korea Employment Information Service](http://www.keis.or.kr) runs an AI platform that analyzes job seekers' traits and provides them with proper trainings, consultings and support. In this competition hosted by KEIS, participants are expected to build binary classification models that predict whether people accessing their platform would decide to use the educational materials provided to support their job training.
 
-The notebook on the repository walks through the EDA, feature engineering and model trainings. For the classification models, I experimented with Logistic Regression, Random Forest Classifier, SVC, XGB Classifier, LDA and Catboost Classifier. The Catboost outperformed; in order to boost the performances, I used Optuna library for hyperparameter tuning. My submission placed me on the top 20% of the leader board. 
+The notebook on the repository walks through the Exploratory Data Analysis, feature engineering and model trainings. For the training models, I experimented with Logistic Regression, Random Forest Classifier, SVC, XGB Classifier, LDA and Catboost Classifier. The Catboost outperformed; in order to boost the performances, I used Optuna library for hyperparameter tuning. My submission placed me on the top 20% of the leader board. 
 
 ### [Stock Movement Direction Classifier](https://github.com/jayhoneylee527/Stock_Price_Movement_Prediction) ###
 
@@ -32,7 +32,7 @@ The project consists of feature engineering, model training and back tester, whi
   <em>Source: cargurus.com</em>
 </p>
 
-From the onset of Coronavirus pandemic, the U.S used car market has seen unprecedented rate of increase in the second hand automobiles' prices. This phenomenon is mainly attributed to two causes: decreased production by automakers due to microchip shortages and increased demand from consumers returning to work. With prices still surging fast, buying a car has become more difficult, as knowing the benchmark price is harder; I decided to build a price predictor, so that it will serve as a criterion for future purchases. 
+From the onset of Coronavirus pandemic, the U.S used car market has seen unprecedented rate of increase in the second hand automobiles' prices. This phenomenon is mainly attributed to two causes: decreased production by automakers due to microchip shortages and increased demand from consumers returning to work. With prices still surging fast, buying a car has become more difficult, as knowing the benchmark price is harder; I decided to build a price predictor so that it will serve as a criterion for future purchases. 
 
 **The project consists of two parts:**
 
@@ -40,9 +40,9 @@ From the onset of Coronavirus pandemic, the U.S used car market has seen unprece
 
 2) Feature Engineering, Model Training & Analysis of the Model Performances
 
-Due to the time & resources limit, the scraper collects information on ~25,000 listed recently on cargurus. The information scraper collects includes car model, mileage, make year, MSRP, color, included options and etc. Nearly 70% of the listings were missing MSRP (suggested retail price) - the most important feature in predicting the current prices. I created a separate MSRP scraper to gather as many MSRP data as possible for each model.   
+Due to the time & resources limit, the scraper collects information on ~40,000 vehicles recently listed on Cargurus. The information scraper collects information like car model name, mileage, make year, MSRP, color, included options and etc. Nearly 70% of the listings were missing MSRP (suggested retail price) - the most important feature in predicting the current prices. I created a separate MSRP scraper to gather as many MSRP data as possible for each model. Later, I mixed a few methods of imputations and encoders to enhance reliability of the features.   
 
-Based on more than 30 feature columns, I used 5 different models - Linear Regression, Polynomial Regression, Random Forest, Multilayer Perceptron & XGB. XGB regressor showed the highest precision after parameter tuning. The analysis part deep dives into how the model performed for respective brands and body types of vehicles.
+Based on more than 30 feature columns, I trained with 5 different regression models - Linear Regression, Polynomial Regression, Random Forest, Multilayer Perceptron & XGB. XGB regressor showed the highest precision after parameter tuning. The analysis part deep dives into how the model performed for respective brands and body types of vehicles.
 
 &nbsp;
 <p align="center">
@@ -61,7 +61,7 @@ The most challenging aspect of the project was feature engineering. Some feature
 ----
 ### [Health Nutrition and Population Statistics Visualization](https://github.com/jayhoneylee527/Health-Nutrition-and-Population-Statistics-Visualization/tree/main) ###
 
-Is the world becoming better? Especially in the developing regions, do humans now have better chances of survival? By looking at the data from the past six decades, I created several visualizations that display trends on infant mortalities, birth rates, populations by age bracket and etc. Through macroscopic analysis, I have discovered some obvious and some astounding changes that the world has seen recently. 
+Are qualities of human lives getting better overall? Especially in the developing regions, do humans now have better chances of survival? What about already developed countries with increasing life expectancy? By looking at the data from the World Bank, over the past six decades, I created several visualizations that display trends on infant mortalities, birth rates, populations by age bracket and etc. Through macroscopic analysis, I have discovered some obvious and some astounding changes that the world has seen recently. 
 
 &nbsp;
 <p align="center">
