@@ -6,7 +6,7 @@ This is a comprehensive list of my independent projects. It consists of multiple
 # Machine Learning
 ----
 ## Classification
-### [JobCare Materials Usage Prediction](https://github.com/jayhoneylee527/Job-Recommendation-Manual-Usage-Prediction) - DACON Competition ###
+### **[JobCare Materials Usage Prediction](https://github.com/jayhoneylee527/Job-Recommendation-Manual-Usage-Prediction) - DACON Competition** ###
 
 [Korea Employment Information Service](http://www.keis.or.kr) runs an AI platform that analyzes job seekers' traits and provides them with proper trainings, consultings and support. In this competition hosted by KEIS, participants are expected to build binary classification models that predict whether people accessing their platform would decide to use the educational materials provided to support their job training.
 
